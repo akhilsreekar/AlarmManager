@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Artoo_AkhilSreekar</string>
+    <string name="field_mandatory">Field cannot be empty</string>
+    <string name="no_meetings_present">No Meetings Present</string>
+    <string name="old_time_cant_be_set">Past time cannot be set</string>
+    <string name="meeting_added_successfully">Meeting Addition Successful!</string>
+    <string name="meeting_already_present">Meeting already present in that time!</string>
+</resources>
